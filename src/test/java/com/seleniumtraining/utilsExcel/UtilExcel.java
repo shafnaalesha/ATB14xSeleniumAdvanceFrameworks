@@ -1,11 +1,13 @@
-package com.seleniumtraining.ex17_DataDrivenTesting_POI;
-import org.apache.poi.ss.usermodel.Workbook;
+package com.seleniumtraining.utilsExcel;
+
 import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+
 public class UtilExcel {
     // Apache POI
     // Read the File - TestData.xlsX
