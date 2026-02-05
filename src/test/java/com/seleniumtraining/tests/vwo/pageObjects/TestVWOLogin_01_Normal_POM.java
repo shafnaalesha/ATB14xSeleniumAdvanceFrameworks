@@ -1,7 +1,7 @@
-package com.seleniumtraining.tests.vwo;
+package com.seleniumtraining.tests.vwo.pageObjects;
 
-import com.seleniumtraining.pages.POM.vwo.normal_POM.DashboardPage;
-import com.seleniumtraining.pages.POM.vwo.normal_POM.LoginPage;
+import com.seleniumtraining.pages.POM.vwo.improved_POM.DashboardPage;
+import com.seleniumtraining.pages.POM.vwo.improved_POM.LoginPage;
 import com.seleniumtraining.utils.PropertiesReader;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

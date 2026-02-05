@@ -1,4 +1,4 @@
-package com.seleniumtraining.tests.vwo;
+package com.seleniumtraining.tests.vwo.pageObjects;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

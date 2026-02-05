@@ -1,10 +1,9 @@
-package com.seleniumtraining.pages.POM.vwo.normal_POM;
+package com.seleniumtraining.pages.POM.vwo.improved_POM;
 
 import com.seleniumtraining.utils.PropertiesReader;
 import com.seleniumtraining.utils.WaitHelpers;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage {
     WebDriver driver;

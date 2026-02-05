@@ -1,4 +1,4 @@
-package com.seleniumtraining.pages.POM.vwo.normal_POM;
+package com.seleniumtraining.pages.POM.vwo.improved_POM;
 
 import com.seleniumtraining.utils.PropertiesReader;
 import org.openqa.selenium.By;
