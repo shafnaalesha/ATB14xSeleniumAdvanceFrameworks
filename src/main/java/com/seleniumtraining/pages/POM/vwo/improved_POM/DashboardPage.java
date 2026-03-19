@@ -15,6 +15,7 @@ public class DashboardPage {
     private By userNameOnDashboard = By.xpath("//span[@data-qa=\"lufexuloga\"]");
 
 
+
     public String loggedInUserName(){
         WaitHelpers.waitJVM(10000);
         driver.get(PropertiesReader.readKey("url_dashboard"));
