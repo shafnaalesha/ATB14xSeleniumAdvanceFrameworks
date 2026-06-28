@@ -1,7 +1,5 @@
 # Selenium Automation Framework (with Java)
 
-Author - Pramod Dutta
-
 ## 🚀 Features
 
 - Java, Selenium, TestNG
